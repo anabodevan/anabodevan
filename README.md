@@ -9,4 +9,5 @@ ________________________________________________________________________________
 
 ### Projects
 
-- [Applying KNN to Iris](https://github.com/anabodevan/iris_knn/tree/main) | My first machine learning attempt! Used the K-nearest neighbor algorithm to train a model that predicts species of iris flowers  
+- [Applying KNN to Iris](https://github.com/anabodevan/iris_knn/tree/main)
+  - My first machine learning attempt! Used the K-nearest neighbor algorithm to train a model that predicts species of iris flowers  

@@ -7,3 +7,6 @@ I have a Bachelor of Arts in International Relations and have been playing aroun
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+### Projects
+
+- [Applying KNN to Iris](https://github.com/anabodevan/iris_knn/tree/main) | My first machine learning attempt! Used the K-nearest neighbor algorithm to train a model that predicts species of iris flowers  

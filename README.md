@@ -9,5 +9,5 @@ ________________________________________________________________________________
 
 ## Projects
 
-#### [Using KNN to predict Iris flowers species](https://github.com/anabodevan/iris_knn/tree/main)
+### [Using KNN to predict Iris flowers species](https://github.com/anabodevan/iris_knn/tree/main)
  

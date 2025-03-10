@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 ## Projects
 
-### R 
+### Machine Learning  
 
-#### [Applying KNN to Iris](https://github.com/anabodevan/iris_knn/tree/main)
-- Using machine learning and KNN algorithm to predict iris flower species 
+- [Applying KNN to Iris](https://github.com/anabodevan/iris_knn/tree/main)
+ 

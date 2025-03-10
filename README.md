@@ -7,8 +7,9 @@ I have a Bachelor of Arts in International Relations and have been playing aroun
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-### Projects
+## Projects
 
-#### Machine Learning 
+### R 
 
-- [Applying KNN to Iris](https://github.com/anabodevan/iris_knn/tree/main)
+#### [Applying KNN to Iris](https://github.com/anabodevan/iris_knn/tree/main)
+- Using machine learning and KNN algorithm to predict iris flower species 

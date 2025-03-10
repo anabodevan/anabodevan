@@ -9,7 +9,5 @@ ________________________________________________________________________________
 
 ## Projects
 
-### Machine Learning  
-
-- [Applying KNN to Iris](https://github.com/anabodevan/iris_knn/tree/main)
+#### [Applying KNN to Iris](https://github.com/anabodevan/iris_knn/tree/main)
  

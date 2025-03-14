@@ -4,7 +4,7 @@ I have a Bachelor of Arts in International Relations and have been playing aroun
 
 - 🌱 I’m currently learning: statistical computation, data analysis, machine learning 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ana-luisa-bodevan-979388207/)
-- ✍️ I also have a [Blog](https://anabodevan.quarto.pub/data-journeys/)
+- ✍️ I also have a [Blog](https://anabodevan.quarto.pub/data-journeys/) that also hosts my full Portfolio
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 

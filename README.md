@@ -8,7 +8,10 @@ I have a Bachelor of Arts in International Relations and have been playing aroun
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+### [Calculating acceptance to interethnic marriage in Africa](https://anabodevan.quarto.pub/data-journeys/posts/hh-index/)
+
 ### [Exploring the correlation between life expectation and economic growth](https://anabodevan.quarto.pub/data-journeys/blog/gdp_lifeexp/)
 
 ### [Using KNN to predict Iris flowers species](https://github.com/anabodevan/iris_knn/tree/main)
+
 

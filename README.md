@@ -8,6 +8,8 @@ I have a Bachelor of Arts in International Relations and have been playing aroun
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+### [Impact evaluation with difference in differences](https://anabodevan.quarto.pub/data-journeys/blog/diff-diff/)
+
 ### [Calculating acceptance to interethnic marriage in Africa](https://anabodevan.quarto.pub/data-journeys/posts/hh-index/)
 
 ### [Exploring the correlation between life expectation and economic growth](https://anabodevan.quarto.pub/data-journeys/blog/gdp_lifeexp/)
